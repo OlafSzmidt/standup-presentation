@@ -28,4 +28,4 @@ We do this quite well.. Sounds like a <span class="gray">boring formality</span>
 
 7 words exactly! XD
 
-s<span class="gray>sry</span>
+<span class="gray>sry</span>
