@@ -19,4 +19,4 @@ it down in no less or more than 5 words.
 
 We do this quite well.. Sounds like a <span class="gray">boring formality</span>, but it's a core principle of daily meetings.
 ---
-# Keep it <span size="small">stand</span> up!
+# Keep it <span class="gold">up</span>!
