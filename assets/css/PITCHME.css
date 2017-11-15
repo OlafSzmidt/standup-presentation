@@ -2,6 +2,9 @@
   color: #e49436;
 }
 
+.gray {
+  color: gray;
+}
 
 span.byline, span.aside {
   color: #bbb;
