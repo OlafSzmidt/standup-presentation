@@ -21,7 +21,7 @@ We do this quite well.. Sounds like a <span class="gray">boring formality</span>
 ---
 # Keep it <span class="gold">up</span>!
 
-![](https://media.giphy.com/media/l0MYJnJQ4EiYLxvQ4/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/l0MYJnJQ4EiYLxvQ4/giphy.gif)
 
 ---
 # How would <span class="red">you</span> improve stand ups?
