@@ -5,4 +5,9 @@ Welcome to Olaf's **standup workshop**. The most boring 45 minutes of your life 
 
 ![](https://media.giphy.com/media/xT9IgmYU3ZVaCjGafm/giphy.gif)
 ---
-test slide 2 the end
+So the name....
+
+#<span class="gold">Stand</span>Ups
+
+What does it mean to you? Write
+it down in no less or more than 5 words.
