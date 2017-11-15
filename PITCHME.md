@@ -7,7 +7,7 @@ Welcome to Olaf's **standup workshop**. The most boring 45 minutes of your life 
 ---
 So the name....
 
-# <span class="gold">Stand</span>Ups
+# <span color="#e49436">Stand</span>Ups
 
 What does it mean to you? Write
 it down in no less or more than 5 words.
