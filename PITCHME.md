@@ -33,3 +33,9 @@ We do this quite well.. Sounds like a <span class="gray">boring formality</span>
 ![](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
 
 ---
+# Rule no. 2 of <span class="gold">STAND</span>Ups!
+## 3 question agenda...
+* What did you accomplish since the last meeting?
+* What are you working on until the next meeting?
+* What is getting in your way or keeping you from doing your job?
+
