@@ -42,9 +42,9 @@ We do this quite well.. Sounds like a <span class="gray">boring formality</span>
 +++
 * What is getting <span class="gold">in your way</span> or keeping you from doing your job?
 ---
-# Look at the person to the left.
-## Think of the last few stand-ups...
-### What did that person do well?
+* ## Look at the person to the left.
+* ## Think of the last few stand-ups...
+* ## What did that person do well?
 <small> Punctual, speaking concisely, raising up issues etc. </small>
 ---
 ## The big <span class="red">no's no's</span> of daily meetings!
