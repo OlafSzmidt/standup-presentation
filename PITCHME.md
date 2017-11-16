@@ -42,5 +42,5 @@ We do this quite well.. Sounds like a <span class="gray">boring formality</span>
 +++
 * What is getting <span class="gold">in your way</span> or keeping you from doing your job?
 ---
-# The big <span class="red">no's no's</span> of daily meetings!
+## The big <span class="red">no's no's</span> of daily meetings!
 ![](https://media.giphy.com/media/JYZ397GsFrFtu/giphy.gif)
