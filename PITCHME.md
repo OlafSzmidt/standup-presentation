@@ -35,7 +35,10 @@ We do this quite well.. Sounds like a <span class="gray">boring formality</span>
 ---
 # Rule no. 2 of <span class="gold">STAND</span>Ups!
 ## 3 question agenda...
-* What did you accomplish since the last meeting?
-* What are you working on until the next meeting?
-* What is getting in your way or keeping you from doing your job?
++++
+* What did you accomplish since the <span class="gold">last</span> meeting?
++++
+* What are you working on until the <span class="gold">next</span> meeting?
++++
+* What is getting <span class="gold">in your way</span> or keeping you from doing your job?
 
