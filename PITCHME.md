@@ -42,5 +42,20 @@ We do this quite well.. Sounds like a <span class="gray">boring formality</span>
 +++
 * What is getting <span class="gold">in your way</span> or keeping you from doing your job?
 ---
+# Look at the person to the left.
+## Think of the last few stand-ups...
+### What did that person do well?
+<small> Punctual, speaking concisely, raising up issues etc. </small>
+---
 ## The big <span class="red">no's no's</span> of daily meetings!
 ![](https://media.giphy.com/media/JYZ397GsFrFtu/giphy.gif)
++++
+## Rambling, rambling, rambling...
+![](https://media.giphy.com/media/3oriNXSR3p6iPY7GrC/giphy.gif)
+<small> Only say what is valuable to everyone in the room! </small>
++++
+## Abandoning team communication in favor of the stand up...
+Our daily standup should not be our sole means of team communication. It's easy to wait around 
+for the next meeting to bring up an issue, but this just slows everyone down!
++++
+## What else would you improve?
