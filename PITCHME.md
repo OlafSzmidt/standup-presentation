@@ -26,9 +26,9 @@ We do this quite well.. Sounds like a <span class="gray">boring formality</span>
 ![](https://media.giphy.com/media/l0MYJnJQ4EiYLxvQ4/giphy.gif)
 
 ---
-# How would <span class="red">you</span> improve stand ups?
+### How would <span class="red">you</span> improve stand ups?
 
-7 words exactly!
+<small> 7 words exactly! </small>
 
 ![](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
 
