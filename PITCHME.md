@@ -47,6 +47,9 @@ We do this quite well.. Sounds like a <span class="gray">boring formality</span>
 * ## What did that person do <span class="gold">well?</span>
 <small> <span class="grey">Punctual, speaking concisely, raising up issues etc. </span> </small>
 ---
+## How do we deal with blockers? Let's define a <span class="red">standard</span>!
+![](https://media.giphy.com/media/3orifbG1XLyW8UHCA8/giphy.gif)
+---
 ## The big <span class="red">no's no's</span> of daily meetings!
 ![](https://media.giphy.com/media/JYZ397GsFrFtu/giphy.gif)
 +++
